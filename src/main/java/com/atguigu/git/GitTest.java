@@ -5,5 +5,8 @@ public class GitTest {
         System.out.println("hello git!");
         System.out.println("老表妹子");
         System.out.println("老表妹子a");
+        System.out.println("老表妹子");
+        System.out.println("老表妹子a");
+        System.out.println("hello git4");
     }
 }
