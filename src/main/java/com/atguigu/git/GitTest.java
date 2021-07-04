@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("agains");
         System.out.println("gitee");
         System.out.println("Go to Github!");
+        System.out.println("From GitHub to IDEA!");
     }
 }
