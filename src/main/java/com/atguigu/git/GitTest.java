@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("agains");
         System.out.println("gitee");
+        System.out.println("我在Gitee上进行操作！");
     }
 }
